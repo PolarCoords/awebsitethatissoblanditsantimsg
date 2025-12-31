@@ -1,7 +1,18 @@
+body {
+  font-family: monospace;
+  background-color: aliceblue;
+}
+
+
 p {
   line-height: 1.2
 }
 
 h1 {
-  font-size: 128px
+  font-size: 42px
+  
+}
+
+span {
+  text-decoration: line-through;
 }

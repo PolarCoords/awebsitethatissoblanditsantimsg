@@ -1,3 +1,9 @@
+.walter-turncoat-regular {
+  font-family: "Walter Turncoat", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   font-family: monospace, system-ui, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: aliceblue;
@@ -16,8 +22,4 @@ p {
 h1 {
   font-size: 42px
   
-}
-
-span {
-  text-decoration: underline;
 }
